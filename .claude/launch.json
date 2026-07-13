@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "tech-stem-web",
+      "runtimeExecutable": "npx",
+      "runtimeArgs": ["-y", "http-server", "C:/Users/psu05/Claude/Projects/TECH-STEM/docs", "-p", "8137", "-c-1"],
+      "port": 8137
+    }
+  ]
+}
